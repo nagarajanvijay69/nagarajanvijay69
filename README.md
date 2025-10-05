@@ -102,13 +102,13 @@ A production-ready e-commerce website with secure authentication, payment integr
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagarajan&show_icons=true&theme=tokyonight" alt="Nagarajan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nagarajanvijay69&show_icons=true&theme=tokyonight" alt="Nagarajan's GitHub stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarajan&theme=tokyonight" alt="Nagarajan's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=nagarajanvijay69&theme=tokyonight" alt="Nagarajan's GitHub streak" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajanvijay69&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
