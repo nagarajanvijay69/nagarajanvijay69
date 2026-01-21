@@ -25,7 +25,7 @@ I’m always learning new technologies and love turning ideas into reality throu
 ### 🧠 Itachi AI – MERN Stack Chatbot with GenAI (LangChain)
 A personalized AI chatbot built using **MERN Stack** + **LangChain** and **OpenAI APIs**. Users can sign up/login and interact with the chatbot. Chat history is saved per user using MongoDB, enabling a persistent experience.
 
-- 🔧 **Tech Stack**: MongoDB, Express, React, Node.js, OpenAI API, LangChain, Tailwind CSS  
+- 🔧 **Tech Stack**: MongoDB, Express, React, Node.js, Gemini API, LangChain, Tailwind CSS  
 - 🔐 **Features**:
   - User registration
   - OpenAI integration via LangChain for context-aware conversations
@@ -51,7 +51,7 @@ A full-stack dashboard that helps admins manage loan applications and calculate 
 ### 🛒 Farm2Home – E-Commerce Platform with AI Assistant
 A production-ready e-commerce website with secure authentication, payment integration, and a built-in AI shopping assistant using LangChain and Pinecone for vector search.
 
-- 🔧 **Tech Stack**: Next.js, MongoDB, Node.js, Razorpay, JWT, Bcrypt, LangChain, OpenAI, Pinecone, Tailwind CSS  
+- 🔧 **Tech Stack**: Next.js, MongoDB, Node.js, Razorpay, JWT, Bcrypt, LangChain, Gemini, Pinecone, Tailwind CSS  
 - 🤖 **AI Features**:
   - Built-in chatbot assistant using LangChain + OpenAI
   - Product-related queries answered using vector similarity search (Pinecone)
