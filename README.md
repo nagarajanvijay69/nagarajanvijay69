@@ -31,7 +31,7 @@ A personalized AI chatbot built using **MERN Stack** + **LangChain** and **OpenA
   - OpenAI integration via LangChain for context-aware conversations
   - Stores user-specific chat history
   - Clean, responsive UI built with Tailwind
-- 🌐 **Live Demo**: [https://itachi-ai-delta.vercel.app](https://itachi-ai-delta.vercel.app)
+- 🌐 **Live Demo**: ([https://itachi-ai-delta.vercel.app](https://itachi-ai-sepia.vercel.app))
 
 ---
 
