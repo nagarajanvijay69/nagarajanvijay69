@@ -47,14 +47,14 @@ Dedicated **Full Stack & AI Systems Engineer** passionate about building scalabl
 
 ---
 
-### 🌾 [Farm2Home — E-Commerce Marketplace](https://farm2home-frontend-puce.vercel.app)
+### 🌾 [Farm2Home — E-Commerce Marketplace](https://rm2home-frontend-puce.vercel.app)
 *   **Category:** E-Commerce & AI
 *   **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `AI Search`
 *   **Key Highlights:**
     *   🔍 **AI-assisted product search** and smart recommendation engines.
     *   📦 Robust **ordering and inventory management** systems.
     *   🌱 **Freshness metrics** and visual status indicators for farm products.
-*   🔗 [Live Demo](https://farm2home-frontend-puce.vercel.app)
+*   🔗 [Live Demo](https://rm2home-frontend-puce.vercel.app)
 
 ---
 
