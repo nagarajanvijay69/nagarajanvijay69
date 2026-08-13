@@ -93,7 +93,3 @@ Dedicated **Full Stack & AI Systems Engineer** passionate about building scalabl
 </p>
 
 ---
-
-<p align="center">
-  Generated with ❤️ by Antigravity AI
-</p>
