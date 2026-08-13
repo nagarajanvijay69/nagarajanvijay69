@@ -1,121 +1,98 @@
 <h1 align="center">Hi 👋, I'm Nagarajan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Full Stack & AI Systems Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nagarajan&label=Profile%20views&color=0e75b6&style=flat" alt="nagarajan" />
+  <a href="https://www.linkedin.com/in/nagarajan-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nagarajanvijay69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/nagarajanvijay69"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nagarajanvijay69&label=Profile%20views&color=0e75b6&style=flat-square" alt="Nagarajan's Profile Views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👤 About Me
 
-I'm Nagarajan, a full stack developer with hands-on experience in building web applications using the **MERN stack**, **Next.js**, **Flask**, and **Tailwind CSS**. I enjoy solving real-world problems through scalable and user-friendly applications.
+Dedicated **Full Stack & AI Systems Engineer** passionate about building scalable backend architectures, high-performance web applications, and autonomous, agentic AI workflows. Experienced in designing robust asynchronous APIs, deploying intelligent chatbots and utility suites, and utilizing strong foundations in Data Structures and Algorithms (DSA) to solve complex system design problems.
 
-I’ve completed several projects including:
-
-- A chatbot for customer support
-- A full-stack CRUD application for loan management (admin dashboard)
-- A complete e-commerce website with product listings, cart, and user management
-
-I’m always learning new technologies and love turning ideas into reality through clean code and functional UI/UX.
-
----
-## 🚀 Projects
-
-### 🧠 Itachi AI – MERN Stack Chatbot with GenAI (LangChain)
-A personalized AI chatbot built using **MERN Stack** + **LangChain** and **OpenAI APIs**. Users can sign up/login and interact with the chatbot. Chat history is saved per user using MongoDB, enabling a persistent experience.
-
-- 🔧 **Tech Stack**: MongoDB, Express, React, Node.js, Gemini API, LangChain, Tailwind CSS  
-- 🔐 **Features**:
-  - User registration
-  - OpenAI integration via LangChain for context-aware conversations
-  - Stores user-specific chat history
-  - Clean, responsive UI built with Tailwind
-- 🌐 **Live Demo**: ([https://itachi-ai-delta.vercel.app](https://itachi-ai-sepia.vercel.app))
+*   📍 **Location:** Tirunelveli, Tamil Nadu, India
+*   💼 **Availability:** Open to full-time roles & high-impact projects
 
 ---
 
-### 💼 Loan Management Admin Dashboard – MERN Stack CRUD App
-A full-stack dashboard that helps admins manage loan applications and calculate EMIs and interest. Acts like a simplified loan CRM with CRUD capabilities.
+## ⚡ Technical Skills
 
-- 🔧 **Tech Stack**: MongoDB, Express, React, Node.js, Tailwind CSS  
-- 💡 **Features**:
-  - Add, edit, delete user loan records
-  - Calculates total interest and monthly EMI based on input
-  - Admin-only access with secure routing
-  - Filters, search, and data visualization (basic)
-- 🌐 **Live Demo**: [https://loan-proj-frontend.vercel.app](https://loan-proj-frontend.vercel.app) 
-
----
-
-### 🛒 Farm2Home – E-Commerce Platform with AI Assistant
-A production-ready e-commerce website with secure authentication, payment integration, and a built-in AI shopping assistant using LangChain and Pinecone for vector search.
-
-- 🔧 **Tech Stack**: Next.js, MongoDB, Node.js, Razorpay, JWT, Bcrypt, LangChain, Gemini, Pinecone, Tailwind CSS  
-- 🤖 **AI Features**:
-  - Built-in chatbot assistant using LangChain + OpenAI
-  - Product-related queries answered using vector similarity search (Pinecone)
-- 💸 **E-Commerce Features**:
-  - JWT-based login/signup with hashed passwords (bcrypt)
-  - Razorpay integration for secure payments
-  - Admin panel for product management
-  - Add to cart, wishlist, order history, etc.
-- 🌐 **Live Demo**:
-[https://farm2home-frontend-puce.vercel.app](https://farm2home-frontend-puce.vercel.app)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **AI & Agentic Systems** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white) `LangGraph` `Gemini API` `OpenAI API` <br> `Autonomous AI Agents` • `Agentic Workflows` • `LLM Fine-Tuning & Prompting` |
+| **Backend Development** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Frontend Development** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **DevOps, Cloud & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Languages & Foundations** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) `C` <br> `Data Structures & Algorithms (DSA)` • `System Design` • `Database Systems` • `Distributed Design` |
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Featured Projects
 
-### 💻 Core Web & Full Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/bf76337e-2421-4231-84f2-d18c418f3459" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c80a0c2c-f530-4cc4-8361-dbf4540606b5" />
+### 🌌 [SkyPanel — AI Multi-Utility & Gaming Suite](https://sky-panel-eta.vercel.app)
+*   **Category:** Full Stack, AI & Realtime
+*   **Tech Stack:** `TypeScript` • `Next.js` • `Express.js` • `MongoDB` • `Socket.io` • `LangChain` • `Gemini API`
+*   **Key Highlights:**
+    *   🎮 **Real-time multiplayer chess** and live chat powered by **Socket.io**.
+    *   💻 **AI-driven code editor** and email composer powered by the **Gemini API**.
+    *   🤖 An **interactive chatbot** using **LangChain** for orchestration.
+*   🔗 [Live Demo](https://sky-panel-eta.vercel.app)
+
+---
+
+### 🌾 [Farm2Home — E-Commerce Marketplace](https://farm2home-frontend-puce.vercel.app)
+*   **Category:** E-Commerce & AI
+*   **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `AI Search`
+*   **Key Highlights:**
+    *   🔍 **AI-assisted product search** and smart recommendation engines.
+    *   📦 Robust **ordering and inventory management** systems.
+    *   🌱 **Freshness metrics** and visual status indicators for farm products.
+*   🔗 [Live Demo](https://farm2home-frontend-puce.vercel.app)
+
+---
+
+### 👺 [Itachi AI — Chatbot](https://itachi-ai-sepia.vercel.app)
+*   **Category:** Generative AI
+*   **Tech Stack:** `React` • `Gemini API` • `Tailwind CSS` • `Vercel`
+*   **Key Highlights:**
+    *   ⚡ **Real-time response streaming** from LLM endpoints.
+    *   ⚙️ Dynamic **prompt-tuning interface** for custom user interactions.
+    *   ✨ Highly polished, **animated user interface** utilizing Tailwind CSS.
+*   🔗 [Live Demo](https://itachi-ai-sepia.vercel.app)
+
+---
+
+## 🎓 Education & Academic Background
+
+### **Bachelor of Science in Computer Science**
+🏫 **St. Xavier's College, Palayamkottai, Tirunelveli**
+*   *Key Focus Areas:* Computer science principles, full-stack web architectures, database systems, distributed design, and advanced algorithms.
+
+### **Higher Secondary Schooling**
+🏫 **Rahmania Higher Secondary School, Melapalayam**
+*   *Key Focus Areas:* Science stream with core focus on mathematics and computational science.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagarajanvijay69&show_icons=true&theme=tokyonight" alt="Nagarajan's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajanvijay69&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
-
-
-### 🤖 AI, Tools & Deployment
-  - Langchain
-  - Pinecone (Vector DB)
-  - Postman
-  - Vercel
-  - Render
-
-### 🧠 Programming Languages (Basic Knowledge)
-<p align="left">
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8d76c00e-2134-4b75-beae-64d4402b4a1f" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
-
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagarajanvijay69&show_icons=true&theme=tokyonight" alt="Nagarajan's GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=nagarajanvijay69&theme=tokyonight" alt="Nagarajan's GitHub streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajanvijay69&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nagarajanvijay69&theme=tokyonight" alt="Nagarajan's GitHub streak" height="180px" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
-  - <a href="https://www.linkedin.com/in/nagarajan-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> Linkedin </a>
-  - <a href="mailto:nagarajanvijay69@gmail.com"> Mail</a>
-  - <a href="https://portfolio-tan-eight-21.vercel.app" target="_blank"> Portfolio </a>
-  
----
+<p align="center">
+  Generated with ❤️ by Antigravity AI
+</p>
