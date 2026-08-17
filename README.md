@@ -55,7 +55,7 @@ Dedicated **Full Stack & AI Systems Engineer** passionate about building scalabl
     *   🔍 **AI-assisted product search** and smart recommendation engines.
     *   📦 Robust **ordering and inventory management** systems.
     *   🌱 **Freshness metrics** and visual status indicators for farm products.
-*   🔗 [Live Demo](https://rm2home-frontend-puce.vercel.app)
+*   🔗 [Live Demo](https://farm2home-frontend-puce.vercel.app)
 
 ---
 
